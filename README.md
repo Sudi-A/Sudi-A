@@ -1,1 +1,1 @@
-Hey! My name is Aneesh - a student at UNC Chapel Hill pursuing a Bachelors of Science in Information Science and a minor in Data Science. I am passionate about building data-driven solutions through utilizing cloud services and AI. Feel free to reach out to me at saneesh[at]unc.edu!
+Hey! My name is Aneesh - a student at UNC Chapel Hill pursuing a Bachelors of Science in Information Science and a minor in Data Science. I am passionate about building data-driven solutions through utilizing cloud technologies and AI. Feel free to reach out to me at saneesh[at]unc.edu!
