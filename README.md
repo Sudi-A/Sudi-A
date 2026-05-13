@@ -1,1 +1,1 @@
-saneesh [at] unc [dot] edu
+Hello! My name is Aneesh Sudigala, a student at the University of North Carolina at Chapel Hill with a major in Information Science and a minor in Data Science and Statistics. I am passionate about delivering solutions through utilizing data, the cloud, and AI with a current position as a Student Associate at Jack Henry & Associates. Feel free to reach out to me at saneesh [at] unc [dot] edu!
