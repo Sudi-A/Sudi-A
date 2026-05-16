@@ -1,1 +1,1 @@
-Hello! My name is Aneesh Sudigala — a student at the University of North Carolina at Chapel Hill, pursuing a Bachelors of Science in Information Science and minors in Data Science and Statistics. I am passionate about engineering solutions at the intersection of data, the cloud, and AI with a real-world impact. Feel free to reach out at saneesh [at] unc [dot] edu!
+saneesh [at] unc [dot] edu
