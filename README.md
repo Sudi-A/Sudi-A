@@ -1,1 +1,1 @@
-Student at UNC Chapel Hill
+saneesh [at] unc [dot] edu
